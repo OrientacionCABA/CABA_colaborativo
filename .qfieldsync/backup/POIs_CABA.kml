@@ -1,0 +1,2627 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="pois_caba" id="pois_caba">
+	<SimpleField name="fid" type="float"></SimpleField>
+	<SimpleField name="lat_gd" type="string"></SimpleField>
+	<SimpleField name="long_gd" type="string"></SimpleField>
+	<SimpleField name="fuente" type="string"></SimpleField>
+	<SimpleField name="elev" type="int"></SimpleField>
+	<SimpleField name="layer" type="string"></SimpleField>
+</Schema>
+<Folder><name>pois_caba</name>
+  <Placemark>
+	<name>De La Lagrima Viva</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">1</SimpleData>
+		<SimpleData name="lat_gd">-32.59578323399995</SimpleData>
+		<SimpleData name="long_gd">-69.61698150599995</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Abra</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.6169815059999,-32.595783234,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Cascada Gruta</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">2</SimpleData>
+		<SimpleData name="lat_gd">-31.419765503512433</SimpleData>
+		<SimpleData name="long_gd">-64.77847271460855</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Agua</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.7784727146086,-31.4197655035124,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Cascada Escondida</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">3</SimpleData>
+		<SimpleData name="lat_gd">-31.424910796221432</SimpleData>
+		<SimpleData name="long_gd">-64.79825185693377</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Agua</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.7982518569338,-31.4249107962214,2053.7</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Río Subterráneo</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">4</SimpleData>
+		<SimpleData name="lat_gd">-31.435928483713887</SimpleData>
+		<SimpleData name="long_gd">-64.79156063508002</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Agua</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.79156063508,-31.4359284837139,2020</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Cascadita</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">5</SimpleData>
+		<SimpleData name="lat_gd">-31.418229470980883</SimpleData>
+		<SimpleData name="long_gd">-64.79675690064127</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Agua</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.7967569006413,-31.4182294709809,2115</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Agua</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">6</SimpleData>
+		<SimpleData name="lat_gd">-31.41288372938195</SimpleData>
+		<SimpleData name="long_gd">-64.7932891712971</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Agua</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.7932891712971,-31.4128837293819,1983</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Rio yuspe</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">7</SimpleData>
+		<SimpleData name="lat_gd">-31.38828031858017</SimpleData>
+		<SimpleData name="long_gd">-64.81346301767613</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Agua</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.8134630176761,-31.3882803185802,1803.946</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Pozo de agua</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">8</SimpleData>
+		<SimpleData name="lat_gd">-31.380599760982093</SimpleData>
+		<SimpleData name="long_gd">-64.82455538681698</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Agua</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.824555386817,-31.3805997609821,1713.699</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Cascada</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">9</SimpleData>
+		<SimpleData name="lat_gd">-31.37024188209461</SimpleData>
+		<SimpleData name="long_gd">-64.8404930760637</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Agua</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.8404930760637,-31.3702418820946,1709.655</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Abra de la lágrima viva</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">10</SimpleData>
+		<SimpleData name="lat_gd">-32.59578323399995</SimpleData>
+		<SimpleData name="long_gd">-69.61698150599995</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">poi</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.6169815059999,-32.595783234,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Alto de los Gigantes (restaurant)</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">11</SimpleData>
+		<SimpleData name="lat_gd">-31.39492509793637</SimpleData>
+		<SimpleData name="long_gd">-64.74879004945295</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Edificaciones</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.7487900494529,-31.3949250979364,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Parador del Valle</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">12</SimpleData>
+		<SimpleData name="lat_gd">-31.395503975861214</SimpleData>
+		<SimpleData name="long_gd">-64.75263924269527</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Edificaciones</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.7526392426953,-31.3955039758612,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Edificaciones</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">13</SimpleData>
+		<SimpleData name="lat_gd">-31.396318428200598</SimpleData>
+		<SimpleData name="long_gd">-64.75376911777575</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Edificaciones</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.7537691177757,-31.3963184282006,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Edificaciones</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">14</SimpleData>
+		<SimpleData name="lat_gd">-31.39699509793246</SimpleData>
+		<SimpleData name="long_gd">-64.75376066818207</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Edificaciones</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.7537606681821,-31.3969950979325,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Edificaciones. Valle de los Lisos</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">15</SimpleData>
+		<SimpleData name="lat_gd">-31.429412911141018</SimpleData>
+		<SimpleData name="long_gd">-64.77099625684481</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Edificaciones</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.7709962568448,-31.429412911141,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Refugio del Pilar</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">16</SimpleData>
+		<SimpleData name="lat_gd">-31.423591596203874</SimpleData>
+		<SimpleData name="long_gd">-64.77316952664562</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Edificaciones</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.7731695266456,-31.4235915962039,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Capilla Antigua</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">17</SimpleData>
+		<SimpleData name="lat_gd">-31.404482694556744</SimpleData>
+		<SimpleData name="long_gd">-64.78768143130638</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Edificaciones</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.7876814313064,-31.4044826945567,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Edificaciones</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">18</SimpleData>
+		<SimpleData name="lat_gd">-31.422160771411786</SimpleData>
+		<SimpleData name="long_gd">-64.76376993706428</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Edificaciones</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.7637699370643,-31.4221607714118,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Planta Concentradora de Uranio</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">19</SimpleData>
+		<SimpleData name="lat_gd">-31.438241817539975</SimpleData>
+		<SimpleData name="long_gd">-64.77116230315997</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Edificaciones</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.77116230316,-31.43824181754,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Edificaciones</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">20</SimpleData>
+		<SimpleData name="lat_gd">-31.42170753773352</SimpleData>
+		<SimpleData name="long_gd">-64.7639297597635</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Edificaciones</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.7639297597635,-31.4217075377335,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Edificación</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">21</SimpleData>
+		<SimpleData name="lat_gd">-31.422698077152862</SimpleData>
+		<SimpleData name="long_gd">-64.7369871707677</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Edificaciones Secundarias</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.7369871707677,-31.4226980771529,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Edificación</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">22</SimpleData>
+		<SimpleData name="lat_gd">-31.429513825921955</SimpleData>
+		<SimpleData name="long_gd">-64.72123789760037</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Edificaciones Secundarias</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.7212378976004,-31.429513825922,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Edificación</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">23</SimpleData>
+		<SimpleData name="lat_gd">-31.432941971145254</SimpleData>
+		<SimpleData name="long_gd">-64.72188970311386</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Edificaciones Secundarias</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.7218897031139,-31.4329419711453,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Edificación</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">24</SimpleData>
+		<SimpleData name="lat_gd">-31.387456900516813</SimpleData>
+		<SimpleData name="long_gd">-64.76123855699998</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Edificaciones Secundarias</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.761238557,-31.3874569005168,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Edificación</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">25</SimpleData>
+		<SimpleData name="lat_gd">-31.389938856044783</SimpleData>
+		<SimpleData name="long_gd">-64.74994897616457</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Edificaciones Secundarias</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.7499489761646,-31.3899388560448,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Blanco Encalada</name>
+	<description>Las Heras</description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">26</SimpleData>
+		<SimpleData name="lat_gd">-33.038931295755816</SimpleData>
+		<SimpleData name="long_gd">-69.00643920518046</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">localidad</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.0064392051805,-33.0389312957558,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Los Penitentes</name>
+	<description>Las Heras</description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">27</SimpleData>
+		<SimpleData name="lat_gd">-32.84152685646824</SimpleData>
+		<SimpleData name="long_gd">-69.8422733955305</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">localidad</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.8422733955305,-32.8415268564682,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Polvaredas</name>
+	<description>Las Heras</description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">28</SimpleData>
+		<SimpleData name="lat_gd">-32.794879312888966</SimpleData>
+		<SimpleData name="long_gd">-69.65354641484852</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">localidad</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.6535464148485,-32.794879312889,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Punta de Vacas</name>
+	<description>Las Heras</description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">29</SimpleData>
+		<SimpleData name="lat_gd">-32.85577988206028</SimpleData>
+		<SimpleData name="long_gd">-69.7632140912501</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">localidad</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.7632140912501,-32.8557798820603,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Puente del Inca</name>
+	<description>Las Heras</description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">30</SimpleData>
+		<SimpleData name="lat_gd">-32.8245526492181</SimpleData>
+		<SimpleData name="long_gd">-69.90996977593618</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">localidad</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.9099697759362,-32.8245526492181,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Cacheuta</name>
+	<description>Luján de Cuyo</description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">31</SimpleData>
+		<SimpleData name="lat_gd">-33.0131455155079</SimpleData>
+		<SimpleData name="long_gd">-69.1189728553332</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">localidad</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.1189728553332,-33.0131455155079,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>El Salto</name>
+	<description>Luján de Cuyo</description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">32</SimpleData>
+		<SimpleData name="lat_gd">-32.95974492041901</SimpleData>
+		<SimpleData name="long_gd">-69.26485958538642</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">localidad</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.2648595853864,-32.959744920419,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Las Vegas</name>
+	<description>Luján de Cuyo</description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">33</SimpleData>
+		<SimpleData name="lat_gd">-33.014749232082984</SimpleData>
+		<SimpleData name="long_gd">-69.27224526064337</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">localidad</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.2722452606434,-33.014749232083,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Potrerillos</name>
+	<description>Luján de Cuyo</description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">34</SimpleData>
+		<SimpleData name="lat_gd">-32.96232099701137</SimpleData>
+		<SimpleData name="long_gd">-69.20104714647185</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">localidad</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.2010471464719,-32.9623209970114,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Barrio Belgrano Norte</name>
+	<description>Tupungato</description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">35</SimpleData>
+		<SimpleData name="lat_gd">-33.33078566882468</SimpleData>
+		<SimpleData name="long_gd">-69.12616408312753</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">localidad</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.1261640831275,-33.3307856688247,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>San José</name>
+	<description>Tupungato</description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">36</SimpleData>
+		<SimpleData name="lat_gd">-33.30828252540927</SimpleData>
+		<SimpleData name="long_gd">-69.15289888477864</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">localidad</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.1528988847786,-33.3082825254093,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Portezuelo Aguada del Toro</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">52</SimpleData>
+		<SimpleData name="lat_gd">-32.718017577999944</SimpleData>
+		<SimpleData name="long_gd">-69.09994506799995</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">pasos</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.099945068,-32.7180175779999,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Abra del Tupungato</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">53</SimpleData>
+		<SimpleData name="lat_gd">-33.30850219699994</SimpleData>
+		<SimpleData name="long_gd">-69.80917358399995</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">pasos</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.809173584,-33.3085021969999,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Portezuelo Santa Clara o del Azufre</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">54</SimpleData>
+		<SimpleData name="lat_gd">-33.25902938799993</SimpleData>
+		<SimpleData name="long_gd">-69.69203185999999</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">pasos</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.69203186,-33.2590293879999,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Abra del Hielo</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">55</SimpleData>
+		<SimpleData name="lat_gd">-33.048454284999934</SimpleData>
+		<SimpleData name="long_gd">-69.80768585199996</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">pasos</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.807685852,-33.0484542849999,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Paso Tres Terrazas</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">56</SimpleData>
+		<SimpleData name="lat_gd">-33.32659892799995</SimpleData>
+		<SimpleData name="long_gd">-69.40155995399994</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">pasos</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.4015599539999,-33.326598928,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Portezuelo Bajo del Río Blanco</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">57</SimpleData>
+		<SimpleData name="lat_gd">-32.99616955499994</SimpleData>
+		<SimpleData name="long_gd">-69.93054279699999</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">pasos</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.930542797,-32.9961695549999,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Portezuelo Alto del Río Blanco</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">58</SimpleData>
+		<SimpleData name="lat_gd">-32.97618208199998</SimpleData>
+		<SimpleData name="long_gd">-69.98193915399997</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">pasos</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.981939154,-32.976182082,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Portezuelo del Tupungato</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">59</SimpleData>
+		<SimpleData name="lat_gd">-33.30689652299998</SimpleData>
+		<SimpleData name="long_gd">-69.79161648499996</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">pasos</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.791616485,-33.306896523,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Portezuelo Aguada del Toro</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">60</SimpleData>
+		<SimpleData name="lat_gd">-32.718017577999944</SimpleData>
+		<SimpleData name="long_gd">-69.09994506799995</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">pasos</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.099945068,-32.7180175779999,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Abra del Tupungato</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">61</SimpleData>
+		<SimpleData name="lat_gd">-33.30850219699994</SimpleData>
+		<SimpleData name="long_gd">-69.80917358399995</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">pasos</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.809173584,-33.3085021969999,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Portezuelo Santa Clara o del Azufre</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">62</SimpleData>
+		<SimpleData name="lat_gd">-33.25902938799993</SimpleData>
+		<SimpleData name="long_gd">-69.69203185999999</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">pasos</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.69203186,-33.2590293879999,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Abra del Hielo</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">63</SimpleData>
+		<SimpleData name="lat_gd">-33.048454284999934</SimpleData>
+		<SimpleData name="long_gd">-69.80768585199996</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">pasos</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.807685852,-33.0484542849999,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Paso Tres Terrazas</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">64</SimpleData>
+		<SimpleData name="lat_gd">-33.32659892799995</SimpleData>
+		<SimpleData name="long_gd">-69.40155995399994</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">pasos</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.4015599539999,-33.326598928,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Portezuelo Bajo del Río Blanco</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">65</SimpleData>
+		<SimpleData name="lat_gd">-32.99616955499994</SimpleData>
+		<SimpleData name="long_gd">-69.93054279699999</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">pasos</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.930542797,-32.9961695549999,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Portezuelo Alto del Río Blanco</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">66</SimpleData>
+		<SimpleData name="lat_gd">-32.97618208199998</SimpleData>
+		<SimpleData name="long_gd">-69.98193915399997</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">pasos</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.981939154,-32.976182082,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Portezuelo del Tupungato</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">67</SimpleData>
+		<SimpleData name="lat_gd">-33.30689652299998</SimpleData>
+		<SimpleData name="long_gd">-69.79161648499996</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">pasos</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.791616485,-33.306896523,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Piedra grande</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">68</SimpleData>
+		<SimpleData name="lat_gd">-32.981248</SimpleData>
+		<SimpleData name="long_gd">-69.388779</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.388779,-32.981248,3569.39</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>El Infiernillo</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">69</SimpleData>
+		<SimpleData name="lat_gd">-32.98148</SimpleData>
+		<SimpleData name="long_gd">-69.403222</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.403222,-32.98148,3969.011</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Cuevas y lagunas congelada</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">70</SimpleData>
+		<SimpleData name="lat_gd">-32.97745</SimpleData>
+		<SimpleData name="long_gd">-69.417354</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.417354,-32.97745,4349.256</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>La Hoyada</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">71</SimpleData>
+		<SimpleData name="lat_gd">-32.990346</SimpleData>
+		<SimpleData name="long_gd">-69.426609</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.426609,-32.990346,4666.777</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Peenltima</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">72</SimpleData>
+		<SimpleData name="lat_gd">-33.009622</SimpleData>
+		<SimpleData name="long_gd">-69.453723</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.453723,-33.009622,5632.695</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Subida</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">73</SimpleData>
+		<SimpleData name="lat_gd">-33.014905</SimpleData>
+		<SimpleData name="long_gd">-69.454623</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.454623,-33.014905,5927.067</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Cumbre C el Plata</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">74</SimpleData>
+		<SimpleData name="lat_gd">-33.015814</SimpleData>
+		<SimpleData name="long_gd">-69.454972</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.454972,-33.015814,5966.387</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>acarreo</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">75</SimpleData>
+		<SimpleData name="lat_gd">-33.010933</SimpleData>
+		<SimpleData name="long_gd">-69.456132</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.456132,-33.010933,5739.932</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Col El Plata - Vallecitos</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">76</SimpleData>
+		<SimpleData name="lat_gd">-32.99796</SimpleData>
+		<SimpleData name="long_gd">-69.43831</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.43831,-32.99796,5224.726</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Penitentes de la Hoyada</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">77</SimpleData>
+		<SimpleData name="lat_gd">-32.992301</SimpleData>
+		<SimpleData name="long_gd">-69.427734</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.427734,-32.992301,4742.861</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>El Salto</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">78</SimpleData>
+		<SimpleData name="lat_gd">-32.979546751546486</SimpleData>
+		<SimpleData name="long_gd">-69.41464446565716</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.4146444656572,-32.9795467515465,4334.084</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Glaciar del Hielo Azul</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">79</SimpleData>
+		<SimpleData name="lat_gd">-41.887606</SimpleData>
+		<SimpleData name="long_gd">-71.65472</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-71.65472,-41.887606,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Foto</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">80</SimpleData>
+		<SimpleData name="lat_gd">-41.886424</SimpleData>
+		<SimpleData name="long_gd">-71.652907</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-71.652907,-41.886424,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Bajada</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">81</SimpleData>
+		<SimpleData name="lat_gd">-41.886417</SimpleData>
+		<SimpleData name="long_gd">-71.6527</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-71.6527,-41.886417,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Desvío a Refugio Natación </name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">82</SimpleData>
+		<SimpleData name="lat_gd">-41.888342</SimpleData>
+		<SimpleData name="long_gd">-71.63225</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-71.63225,-41.888342,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Laguna</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">83</SimpleData>
+		<SimpleData name="lat_gd">-41.886673</SimpleData>
+		<SimpleData name="long_gd">-71.624084</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-71.624084,-41.886673,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Desvío </name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">84</SimpleData>
+		<SimpleData name="lat_gd">-41.884201</SimpleData>
+		<SimpleData name="long_gd">-71.62472</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-71.62472,-41.884201,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Foto</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">85</SimpleData>
+		<SimpleData name="lat_gd">-41.879776</SimpleData>
+		<SimpleData name="long_gd">-71.62477</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-71.62477,-41.879776,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Foto</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">86</SimpleData>
+		<SimpleData name="lat_gd">-41.879804</SimpleData>
+		<SimpleData name="long_gd">-71.624052</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-71.624052,-41.879804,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Foto</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">87</SimpleData>
+		<SimpleData name="lat_gd">-41.879426</SimpleData>
+		<SimpleData name="long_gd">-71.623419</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-71.623419,-41.879426,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Bajada</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">88</SimpleData>
+		<SimpleData name="lat_gd">-41.872677</SimpleData>
+		<SimpleData name="long_gd">-71.618389</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-71.618389,-41.872677,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Arroyo</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">89</SimpleData>
+		<SimpleData name="lat_gd">-41.871965</SimpleData>
+		<SimpleData name="long_gd">-71.617197</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-71.617197,-41.871965,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Arroyo</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">90</SimpleData>
+		<SimpleData name="lat_gd">-41.87138</SimpleData>
+		<SimpleData name="long_gd">-71.616283</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-71.616283,-41.87138,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Mirador</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">91</SimpleData>
+		<SimpleData name="lat_gd">-41.86613</SimpleData>
+		<SimpleData name="long_gd">-71.606774</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-71.606774,-41.86613,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Indicaciones</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">92</SimpleData>
+		<SimpleData name="lat_gd">-41.854107</SimpleData>
+		<SimpleData name="long_gd">-71.61451</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-71.61451,-41.854107,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Foto</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">93</SimpleData>
+		<SimpleData name="lat_gd">-41.853513</SimpleData>
+		<SimpleData name="long_gd">-71.619687</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-71.619687,-41.853513,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Foto</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">94</SimpleData>
+		<SimpleData name="lat_gd">-41.853633</SimpleData>
+		<SimpleData name="long_gd">-71.619342</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-71.619342,-41.853633,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Foto</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">95</SimpleData>
+		<SimpleData name="lat_gd">-41.858285</SimpleData>
+		<SimpleData name="long_gd">-71.576619</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-71.576619,-41.858285,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Foto</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">96</SimpleData>
+		<SimpleData name="lat_gd">-41.858114</SimpleData>
+		<SimpleData name="long_gd">-71.568711</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-71.568711,-41.858114,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Esperando a pasar el puente</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">97</SimpleData>
+		<SimpleData name="lat_gd">-41.857229</SimpleData>
+		<SimpleData name="long_gd">-71.559473</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-71.559473,-41.857229,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Playa de Estacionamiento</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">98</SimpleData>
+		<SimpleData name="lat_gd">-32.61028619508168</SimpleData>
+		<SimpleData name="long_gd">-69.42690243304799</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.426902433048,-32.6102861950817,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>La Gloria 3.120 m</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">99</SimpleData>
+		<SimpleData name="lat_gd">-32.56031077557945</SimpleData>
+		<SimpleData name="long_gd">-69.5519667073274</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.5519667073274,-32.5603107755795,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Chacay</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">100</SimpleData>
+		<SimpleData name="lat_gd">-32.545000515407416</SimpleData>
+		<SimpleData name="long_gd">-69.47032355724426</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.4703235572443,-32.5450005154074,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Inicio de huella al Montura</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">101</SimpleData>
+		<SimpleData name="lat_gd">-32.618138428413125</SimpleData>
+		<SimpleData name="long_gd">-69.40663425089427</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.4066342508943,-32.6181384284131,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Agua</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">102</SimpleData>
+		<SimpleData name="lat_gd">-32.55903700366615</SimpleData>
+		<SimpleData name="long_gd">-69.53458998352289</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.5345899835229,-32.5590370036661,3078.244141</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>El enjaulado</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">103</SimpleData>
+		<SimpleData name="lat_gd">-31.401585</SimpleData>
+		<SimpleData name="long_gd">-64.802403</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.802403,-31.401585,1980.531</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Mimbres de la retamilla</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">104</SimpleData>
+		<SimpleData name="lat_gd">-31.371364</SimpleData>
+		<SimpleData name="long_gd">-64.840794</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.840794,-31.371364,1722.232</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Tranquera</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">105</SimpleData>
+		<SimpleData name="lat_gd">-31.387835</SimpleData>
+		<SimpleData name="long_gd">-64.814744</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.814744,-31.387835,1807.208</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Los Mimbres</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">106</SimpleData>
+		<SimpleData name="lat_gd">-31.388474</SimpleData>
+		<SimpleData name="long_gd">-64.813851</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.813851,-31.388474,1804.2</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Desvio a la derecha</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">107</SimpleData>
+		<SimpleData name="lat_gd">-31.394368</SimpleData>
+		<SimpleData name="long_gd">-64.790035</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.790035,-31.394368,1857.655</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Sendero marcado</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">108</SimpleData>
+		<SimpleData name="lat_gd">-31.393397</SimpleData>
+		<SimpleData name="long_gd">-64.794536</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.794536,-31.393397,1805.232</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Casas nuevas</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">109</SimpleData>
+		<SimpleData name="lat_gd">-31.394697</SimpleData>
+		<SimpleData name="long_gd">-64.780245</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.780245,-31.394697,1801.022</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Cueva</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">110</SimpleData>
+		<SimpleData name="lat_gd">-31.36794</SimpleData>
+		<SimpleData name="long_gd">-64.755031</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.755031,-31.36794,1703.8</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Cueva del Pobre</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">111</SimpleData>
+		<SimpleData name="lat_gd">-31.41821526581459</SimpleData>
+		<SimpleData name="long_gd">-64.80610778205143</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.8061077820514,-31.4182152658146,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Cueva de la Salamanca</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">112</SimpleData>
+		<SimpleData name="lat_gd">-31.416761445528714</SimpleData>
+		<SimpleData name="long_gd">-64.79723380084086</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.7972338008409,-31.4167614455287,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Cuevita</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">113</SimpleData>
+		<SimpleData name="lat_gd">-31.411241047364413</SimpleData>
+		<SimpleData name="long_gd">-64.79271098186446</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.7927109818645,-31.4112410473644,1946</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Dedito</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">114</SimpleData>
+		<SimpleData name="lat_gd">-31.412613</SimpleData>
+		<SimpleData name="long_gd">-64.792821</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.792821,-31.412613,1976</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Paso</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">115</SimpleData>
+		<SimpleData name="lat_gd">-31.419636</SimpleData>
+		<SimpleData name="long_gd">-64.810575</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.810575,-31.419636,2330</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Primera Falla</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">116</SimpleData>
+		<SimpleData name="lat_gd">-31.429974251971107</SimpleData>
+		<SimpleData name="long_gd">-64.81340269521253</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.8134026952125,-31.4299742519711,2352</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Cuesta del Perro</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">117</SimpleData>
+		<SimpleData name="lat_gd">-31.402320896983028</SimpleData>
+		<SimpleData name="long_gd">-64.80098648326062</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.8009864832606,-31.402320896983,1926.6</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Mirador Cerros los Gigantes.</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">118</SimpleData>
+		<SimpleData name="lat_gd">-31.39891115465237</SimpleData>
+		<SimpleData name="long_gd">-64.76859327112508</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.7685932711251,-31.3989111546524,1806</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Girar a la derecha!</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">119</SimpleData>
+		<SimpleData name="lat_gd">-31.403834133864244</SimpleData>
+		<SimpleData name="long_gd">-64.81138526164477</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.8113852616448,-31.4038341338642,2123.776</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>El Gorila</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">120</SimpleData>
+		<SimpleData name="lat_gd">-31.42036759379463</SimpleData>
+		<SimpleData name="long_gd">-64.80123668201944</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.8012366820194,-31.4203675937946,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>La Rotonda</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">121</SimpleData>
+		<SimpleData name="lat_gd">-31.407488401017257</SimpleData>
+		<SimpleData name="long_gd">-64.78884277330965</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.7888427733097,-31.4074884010173,1875</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Pirca</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">122</SimpleData>
+		<SimpleData name="lat_gd">-31.374742</SimpleData>
+		<SimpleData name="long_gd">-64.834472</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.834472,-31.374742,1717.67</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Pirca</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">123</SimpleData>
+		<SimpleData name="lat_gd">-31.42222454564864</SimpleData>
+		<SimpleData name="long_gd">-64.79747475805266</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.7974747580527,-31.4222245456486,2196</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Pirca</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">124</SimpleData>
+		<SimpleData name="lat_gd">-31.413256497148947</SimpleData>
+		<SimpleData name="long_gd">-64.79436912032591</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.7943691203259,-31.4132564971489,2014</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Pirca</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">125</SimpleData>
+		<SimpleData name="lat_gd">-31.415066947030194</SimpleData>
+		<SimpleData name="long_gd">-64.79456136735084</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.7945613673508,-31.4150669470302,2044</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Pirca</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">126</SimpleData>
+		<SimpleData name="lat_gd">-31.421948688210215</SimpleData>
+		<SimpleData name="long_gd">-64.7978481847499</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.7978481847499,-31.4219486882102,2209</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Pirca</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">127</SimpleData>
+		<SimpleData name="lat_gd">-31.42165257925066</SimpleData>
+		<SimpleData name="long_gd">-64.7983790095952</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.7983790095952,-31.4216525792507,2225</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Pirca</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">128</SimpleData>
+		<SimpleData name="lat_gd">-31.421340056059055</SimpleData>
+		<SimpleData name="long_gd">-64.7987938077093</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.7987938077093,-31.4213400560591,2252</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Pirca</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">129</SimpleData>
+		<SimpleData name="lat_gd">-31.42101821807718</SimpleData>
+		<SimpleData name="long_gd">-64.79922946330092</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.7992294633009,-31.4210182180772,2280</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Pirca</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">130</SimpleData>
+		<SimpleData name="lat_gd">-31.418876326747206</SimpleData>
+		<SimpleData name="long_gd">-64.80336452848867</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.8033645284887,-31.4188763267472,2337</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Pirca</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">131</SimpleData>
+		<SimpleData name="lat_gd">-31.41623934545143</SimpleData>
+		<SimpleData name="long_gd">-64.79522532370706</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.7952253237071,-31.4162393454514,2049</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Pirca</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">132</SimpleData>
+		<SimpleData name="lat_gd">-31.41713986727582</SimpleData>
+		<SimpleData name="long_gd">-64.79597878336715</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.7959787833671,-31.4171398672758,2073</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Pirca</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">133</SimpleData>
+		<SimpleData name="lat_gd">-31.418321135147927</SimpleData>
+		<SimpleData name="long_gd">-64.80563646839612</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.8056364683961,-31.4183211351479,2348</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Pircas Varias</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">134</SimpleData>
+		<SimpleData name="lat_gd">-31.425064418841117</SimpleData>
+		<SimpleData name="long_gd">-64.81167765570991</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.8116776557099,-31.4250644188411,2369</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Pollito</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">135</SimpleData>
+		<SimpleData name="lat_gd">-31.416202</SimpleData>
+		<SimpleData name="long_gd">-64.794191</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.794191,-31.416202,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Valle de los Lisos</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">136</SimpleData>
+		<SimpleData name="lat_gd">-31.423127966477622</SimpleData>
+		<SimpleData name="long_gd">-64.79673460568434</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.7967346056843,-31.4231279664776,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Quebrada del Toro</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">137</SimpleData>
+		<SimpleData name="lat_gd">-31.43859</SimpleData>
+		<SimpleData name="long_gd">-64.794837</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.794837,-31.43859,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Quebrada de Anselmo</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">138</SimpleData>
+		<SimpleData name="lat_gd">-31.401685</SimpleData>
+		<SimpleData name="long_gd">-64.819391</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.819391,-31.401685,2027.494</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Tranquera</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">139</SimpleData>
+		<SimpleData name="lat_gd">-31.408295</SimpleData>
+		<SimpleData name="long_gd">-64.810591</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.810591,-31.408295,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Tranquera</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">140</SimpleData>
+		<SimpleData name="lat_gd">-31.419967</SimpleData>
+		<SimpleData name="long_gd">-64.801354</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.801354,-31.419967,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Paso del Viento</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">141</SimpleData>
+		<SimpleData name="lat_gd">-31.41726403385644</SimpleData>
+		<SimpleData name="long_gd">-64.80112788564138</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.8011278856414,-31.4172640338564,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Vía de Escape</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">142</SimpleData>
+		<SimpleData name="lat_gd">-31.40095</SimpleData>
+		<SimpleData name="long_gd">-64.7942</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.7942,-31.40095,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Mirador Cuesta del Perro</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">143</SimpleData>
+		<SimpleData name="lat_gd">-31.408564881227402</SimpleData>
+		<SimpleData name="long_gd">-64.80150544046622</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.8015054404662,-31.4085648812274,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Submarino</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">144</SimpleData>
+		<SimpleData name="lat_gd">-31.417418866405345</SimpleData>
+		<SimpleData name="long_gd">-64.79666781354224</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.7966678135422,-31.4174188664053,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Segunda Falla</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">145</SimpleData>
+		<SimpleData name="lat_gd">-31.431266666666662</SimpleData>
+		<SimpleData name="long_gd">-64.81485</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.81485,-31.4312666666667,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>El tío</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">146</SimpleData>
+		<SimpleData name="lat_gd">-31.41645</SimpleData>
+		<SimpleData name="long_gd">-64.79696666666666</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.7969666666667,-31.41645,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>La Ventana</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">147</SimpleData>
+		<SimpleData name="lat_gd">-31.4219</SimpleData>
+		<SimpleData name="long_gd">-64.79826666666665</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.7982666666666,-31.4219,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Mogote Zuriaga</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">148</SimpleData>
+		<SimpleData name="lat_gd">-31.417233333333332</SimpleData>
+		<SimpleData name="long_gd">-64.79583333333333</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.7958333333333,-31.4172333333333,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Cuesta Gimenez</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">149</SimpleData>
+		<SimpleData name="lat_gd">-31.41733333333332</SimpleData>
+		<SimpleData name="long_gd">-64.8015</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.8015,-31.4173333333333,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Piedra grande</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">150</SimpleData>
+		<SimpleData name="lat_gd">-32.981248</SimpleData>
+		<SimpleData name="long_gd">-69.388779</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.388779,-32.981248,3569.39</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>El Infiernillo</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">151</SimpleData>
+		<SimpleData name="lat_gd">-32.98148</SimpleData>
+		<SimpleData name="long_gd">-69.403222</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.403222,-32.98148,3969.011</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Cuevas y lagunas congelada</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">152</SimpleData>
+		<SimpleData name="lat_gd">-32.97745</SimpleData>
+		<SimpleData name="long_gd">-69.417354</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.417354,-32.97745,4349.256</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>La Hoyada</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">153</SimpleData>
+		<SimpleData name="lat_gd">-32.990346</SimpleData>
+		<SimpleData name="long_gd">-69.426609</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.426609,-32.990346,4666.777</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Peenltima</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">154</SimpleData>
+		<SimpleData name="lat_gd">-33.009622</SimpleData>
+		<SimpleData name="long_gd">-69.453723</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.453723,-33.009622,5632.695</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Subida</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">155</SimpleData>
+		<SimpleData name="lat_gd">-33.014905</SimpleData>
+		<SimpleData name="long_gd">-69.454623</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.454623,-33.014905,5927.067</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Cumbre C el Plata</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">156</SimpleData>
+		<SimpleData name="lat_gd">-33.015814</SimpleData>
+		<SimpleData name="long_gd">-69.454972</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.454972,-33.015814,5966.387</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>acarreo</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">157</SimpleData>
+		<SimpleData name="lat_gd">-33.010933</SimpleData>
+		<SimpleData name="long_gd">-69.456132</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.456132,-33.010933,5739.932</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Col El Plata - Vallecitos</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">158</SimpleData>
+		<SimpleData name="lat_gd">-32.99796</SimpleData>
+		<SimpleData name="long_gd">-69.43831</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.43831,-32.99796,5224.726</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Penitentes de la Hoyada</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">159</SimpleData>
+		<SimpleData name="lat_gd">-32.992301</SimpleData>
+		<SimpleData name="long_gd">-69.427734</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.427734,-32.992301,4742.861</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>El Salto</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">160</SimpleData>
+		<SimpleData name="lat_gd">-32.979546751546486</SimpleData>
+		<SimpleData name="long_gd">-69.41464446565716</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.4146444656572,-32.9795467515465,4334.084</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>IANIGLA</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">161</SimpleData>
+		<SimpleData name="lat_gd">-32.92405608967981</SimpleData>
+		<SimpleData name="long_gd">-69.36522401377245</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.3652240137724,-32.9240560896798,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>El Salto Superio</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">162</SimpleData>
+		<SimpleData name="lat_gd">-32.98048</SimpleData>
+		<SimpleData name="long_gd">-69.416538</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.416538,-32.98048,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Las Veguitas</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">163</SimpleData>
+		<SimpleData name="lat_gd">-32.976623</SimpleData>
+		<SimpleData name="long_gd">-69.370781</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.370781,-32.976623,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Yangrilá</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">164</SimpleData>
+		<SimpleData name="lat_gd">-32.981635</SimpleData>
+		<SimpleData name="long_gd">-69.402746</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.402746,-32.981635,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>La Hollada</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">165</SimpleData>
+		<SimpleData name="lat_gd">-32.99035090242018</SimpleData>
+		<SimpleData name="long_gd">-69.42650706225542</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.4265070622554,-32.9903509024202,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Estacionamiento</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">166</SimpleData>
+		<SimpleData name="lat_gd">-32.97484197676575</SimpleData>
+		<SimpleData name="long_gd">-69.35859452465773</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.3585945246577,-32.9748419767658,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Piedra Grande. Vallecitos</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">167</SimpleData>
+		<SimpleData name="lat_gd">-32.981499</SimpleData>
+		<SimpleData name="long_gd">-69.388985</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.388985,-32.981499,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Col Plata Vallecitos</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">168</SimpleData>
+		<SimpleData name="lat_gd">-32.996783</SimpleData>
+		<SimpleData name="long_gd">-69.438933</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.438933,-32.996783,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Al Stepanek</name>
+	<description>Inicio ruta al Stepanek</description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">169</SimpleData>
+		<SimpleData name="lat_gd">-32.975533</SimpleData>
+		<SimpleData name="long_gd">-69.389133</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.389133,-32.975533,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Canchita de Futbol</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">170</SimpleData>
+		<SimpleData name="lat_gd">-32.96870524450063</SimpleData>
+		<SimpleData name="long_gd">-69.40107390262942</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="elev">4120</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.4010739026294,-32.9687052445006,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>El Salto</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">171</SimpleData>
+		<SimpleData name="lat_gd">-32.979649</SimpleData>
+		<SimpleData name="long_gd">-69.414883</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.414883,-32.979649,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Base del Acarreo</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">172</SimpleData>
+		<SimpleData name="lat_gd">-32.97553326934576</SimpleData>
+		<SimpleData name="long_gd">-69.38913328573108</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.3891332857311,-32.9755332693458,3725.92724609375</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Veguitas Superior</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">173</SimpleData>
+		<SimpleData name="lat_gd">-32.97500303015113</SimpleData>
+		<SimpleData name="long_gd">-69.38333753496408</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.3833375349641,-32.9750030301511,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Cabañas Las margaritas</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">174</SimpleData>
+		<SimpleData name="lat_gd">-33.00271065205759</SimpleData>
+		<SimpleData name="long_gd">-69.28296877839479</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.2829687783948,-33.0027106520576,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Cabañas: Camino &amp; Piedra</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">175</SimpleData>
+		<SimpleData name="lat_gd">-33.00282008081893</SimpleData>
+		<SimpleData name="long_gd">-69.27843016055175</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.2784301605517,-33.0028200808189,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Cabañas Aventurados</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">176</SimpleData>
+		<SimpleData name="lat_gd">-32.9998167865913</SimpleData>
+		<SimpleData name="long_gd">-69.27413882695059</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.2741388269506,-32.9998167865913,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Cabañas Valle Butacó</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">177</SimpleData>
+		<SimpleData name="lat_gd">-32.99818050137365</SimpleData>
+		<SimpleData name="long_gd">-69.27166101497146</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.2716610149715,-32.9981805013737,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Posada del Blanco</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">178</SimpleData>
+		<SimpleData name="lat_gd">-32.99593805654138</SimpleData>
+		<SimpleData name="long_gd">-69.26578819569103</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.265788195691,-32.9959380565414,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>arroyo y arboles - Camping</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">179</SimpleData>
+		<SimpleData name="lat_gd">-33.00343506507775</SimpleData>
+		<SimpleData name="long_gd">-69.29729462459031</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.2972946245903,-33.0034350650778,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Ref. El Chacay</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">180</SimpleData>
+		<SimpleData name="lat_gd">-32.99454334551105</SimpleData>
+		<SimpleData name="long_gd">-69.31114802768184</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.3111480276818,-32.994543345511,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Camping La Flor</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">181</SimpleData>
+		<SimpleData name="lat_gd">-33.00348505388028</SimpleData>
+		<SimpleData name="long_gd">-69.29139623457039</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.2913962345704,-33.0034850538803,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>La Charamusca Cocina Andina</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">182</SimpleData>
+		<SimpleData name="lat_gd">-32.996841056952</SimpleData>
+		<SimpleData name="long_gd">-69.3227810425123</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.3227810425123,-32.996841056952,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Cabaña Vallecitos</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">183</SimpleData>
+		<SimpleData name="lat_gd">-32.97980587967758</SimpleData>
+		<SimpleData name="long_gd">-69.35448350008986</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.3544835000899,-32.9798058796776,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Guardaparques</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">184</SimpleData>
+		<SimpleData name="lat_gd">-32.98640841081733</SimpleData>
+		<SimpleData name="long_gd">-69.35141669127637</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.3514166912764,-32.9864084108173,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Ref. Edelweiss</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">185</SimpleData>
+		<SimpleData name="lat_gd">-32.98010858010591</SimpleData>
+		<SimpleData name="long_gd">-69.35588671592174</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.3558867159217,-32.9801085801059,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Cascada Quebrada de las vacas</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">186</SimpleData>
+		<SimpleData name="lat_gd">-33.02742474428867</SimpleData>
+		<SimpleData name="long_gd">-69.3445763049172</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.3445763049172,-33.0274247442887,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Centro de Esquí</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">187</SimpleData>
+		<SimpleData name="lat_gd">-32.97367649005655</SimpleData>
+		<SimpleData name="long_gd">-69.35924260978287</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.3592426097829,-32.9736764900565,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Ref. Mausy</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">188</SimpleData>
+		<SimpleData name="lat_gd">-32.97899180692129</SimpleData>
+		<SimpleData name="long_gd">-69.3584293600665</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.3584293600665,-32.9789918069213,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Cabaña La Araucaria</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">189</SimpleData>
+		<SimpleData name="lat_gd">-32.99824316970782</SimpleData>
+		<SimpleData name="long_gd">-69.32124469351434</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.3212446935143,-32.9982431697078,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Cabalgatas las Vegas</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">190</SimpleData>
+		<SimpleData name="lat_gd">-33.01800037283369</SimpleData>
+		<SimpleData name="long_gd">-69.31307198598957</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.3130719859896,-33.0180003728337,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Qda. El Salto</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">191</SimpleData>
+		<SimpleData name="lat_gd">-32.92400964531748</SimpleData>
+		<SimpleData name="long_gd">-69.36875336227305</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.3687533622731,-32.9240096453175,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Qda. de la Manga</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">192</SimpleData>
+		<SimpleData name="lat_gd">-32.92935150397484</SimpleData>
+		<SimpleData name="long_gd">-69.32935993327624</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.3293599332762,-32.9293515039748,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Cascada El Salto</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">193</SimpleData>
+		<SimpleData name="lat_gd">-32.92237986386878</SimpleData>
+		<SimpleData name="long_gd">-69.34888527904961</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">POI</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.3488852790496,-32.9223798638688,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>La Torre Eiffel</name>
+	<description>Ubicada en Paris, Francia</description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">194</SimpleData>
+		<SimpleData name="lat_gd">48.85780097266282</SimpleData>
+		<SimpleData name="long_gd">2.295967680887427</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Recorrido visual</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>2.29596768088743,48.8578009726628,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>El Cristo Redentor</name>
+	<description>Ubicado en Rio de Janeiro, Brasil</description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">195</SimpleData>
+		<SimpleData name="lat_gd">-22.95040715767599</SimpleData>
+		<SimpleData name="long_gd">-43.20953574843956</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Recorrido visual</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-43.2095357484396,-22.950407157676,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>El Gran Cañón del Colorado</name>
+	<description>Ubicado en Arizona, EE.UU.</description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">196</SimpleData>
+		<SimpleData name="lat_gd">36.14936973429993</SimpleData>
+		<SimpleData name="long_gd">-111.839335188889</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Recorrido visual</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-111.839335188889,36.1493697342999,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Sidney</name>
+	<description>Nueva Gales del Sur, Australia</description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">197</SimpleData>
+		<SimpleData name="lat_gd">-33.85543600090152</SimpleData>
+		<SimpleData name="long_gd">151.2122001847845</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Recorrido visual</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>151.212200184785,-33.8554360009015,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Basílica de San Pedro</name>
+	<description>Ubicada en Ciudad del Vaticano</description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">198</SimpleData>
+		<SimpleData name="lat_gd">41.90238356414683</SimpleData>
+		<SimpleData name="long_gd">12.45863229278517</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Recorrido visual</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>12.4586322927852,41.9023835641468,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>El London Eye</name>
+	<description>Ubicado en Londres, Inglaterra</description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">199</SimpleData>
+		<SimpleData name="lat_gd">51.50295856070689</SimpleData>
+		<SimpleData name="long_gd">-0.120803786375585</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Recorrido visual</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-0.120803786375585,51.5029585607069,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>El Titanic</name>
+	<description>Ubicado en el Océano Atlántico del Norte</description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">200</SimpleData>
+		<SimpleData name="lat_gd">41.72834170105288</SimpleData>
+		<SimpleData name="long_gd">-49.94881009327763</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Recorrido visual</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-49.9488100932776,41.7283417010529,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>La Ciudad Prohibida</name>
+	<description>Ubicada en Beijin, China</description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">201</SimpleData>
+		<SimpleData name="lat_gd">39.91379916102216</SimpleData>
+		<SimpleData name="long_gd">116.3908088768236</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Recorrido visual</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>116.390808876824,39.9137991610222,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>El Monte Fuji</name>
+	<description>Ubicado en Tokio, Japón</description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">202</SimpleData>
+		<SimpleData name="lat_gd">35.34063009043844</SimpleData>
+		<SimpleData name="long_gd">138.7818265722904</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Recorrido visual</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>138.78182657229,35.3406300904384,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>La Casa Central de Google</name>
+	<description>Ubicada en Mountain View, California</description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">203</SimpleData>
+		<SimpleData name="lat_gd">37.42169546752972</SimpleData>
+		<SimpleData name="long_gd">-122.0857031353512</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Recorrido visual</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-122.085703135351,37.4216954675297,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Valle de los Lisos</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">204</SimpleData>
+		<SimpleData name="lat_gd">-31.43522819373047</SimpleData>
+		<SimpleData name="long_gd">-64.79454569826149</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Refugios</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.7945456982615,-31.4352281937305,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Ref. Aurelio Castelli</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">205</SimpleData>
+		<SimpleData name="lat_gd">-31.417229556491062</SimpleData>
+		<SimpleData name="long_gd">-64.80308056556932</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Refugios</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.8030805655693,-31.4172295564911,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Ref. Rafael Juarez</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">206</SimpleData>
+		<SimpleData name="lat_gd">-31.41446460779828</SimpleData>
+		<SimpleData name="long_gd">-64.80597278801196</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Refugios</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.805972788012,-31.4144646077983,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Ref. Busegrawitz</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">207</SimpleData>
+		<SimpleData name="lat_gd">-31.434799771106544</SimpleData>
+		<SimpleData name="long_gd">-64.79486367238195</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Refugios</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.794863672382,-31.4347997711065,2002.8</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Ref. del Cielo</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">208</SimpleData>
+		<SimpleData name="lat_gd">-31.427389357702555</SimpleData>
+		<SimpleData name="long_gd">-64.81120690450098</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Refugios</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.811206904501,-31.4273893577026,2393</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Agua</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">209</SimpleData>
+		<SimpleData name="lat_gd">-31.41854440482112</SimpleData>
+		<SimpleData name="long_gd">-64.80451523968841</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Refugios</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.8045152396884,-31.4185444048211,2340</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Ref. de los Nores</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">210</SimpleData>
+		<SimpleData name="lat_gd">-31.41791914950214</SimpleData>
+		<SimpleData name="long_gd">-64.80599691940427</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Refugios</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.8059969194043,-31.4179191495021,2368</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Cueva del pajarito</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">211</SimpleData>
+		<SimpleData name="lat_gd">-31.417636630011106</SimpleData>
+		<SimpleData name="long_gd">-64.79657729748565</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Refugios</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.7965772974857,-31.4176366300111,2098</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Ref. Amelita</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">212</SimpleData>
+		<SimpleData name="lat_gd">-31.406464704724367</SimpleData>
+		<SimpleData name="long_gd">-64.7898014708553</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Refugios</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.7898014708553,-31.4064647047244,1859</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Centro de Salud Nº 92 San José</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">213</SimpleData>
+		<SimpleData name="lat_gd">-33.29962509899997</SimpleData>
+		<SimpleData name="long_gd">-69.15061377799998</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Salud</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.150613778,-33.299625099,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Posta Sanitaria Nº 521 Cacheuta</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">214</SimpleData>
+		<SimpleData name="lat_gd">-33.02674088499998</SimpleData>
+		<SimpleData name="long_gd">-69.11419580699999</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Salud</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.114195807,-33.026740885,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Posta Sanitaria Nº 520 Las Vegas</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">215</SimpleData>
+		<SimpleData name="lat_gd">-33.00406319799998</SimpleData>
+		<SimpleData name="long_gd">-69.26325429099995</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Salud</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.263254291,-33.004063198,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Posta Sanitaria Nº 522 Agua de las Avispas</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">216</SimpleData>
+		<SimpleData name="lat_gd">-33.07821377799996</SimpleData>
+		<SimpleData name="long_gd">-69.12752634699996</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Salud</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.127526347,-33.078213778,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Centro de Salud Nº 93 La Carrera</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">217</SimpleData>
+		<SimpleData name="lat_gd">-33.238622824999936</SimpleData>
+		<SimpleData name="long_gd">-69.22550343399996</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Salud</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.225503434,-33.2386228249999,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Centro de Salud Nº 24 Polvaredas</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">218</SimpleData>
+		<SimpleData name="lat_gd">-32.84205754299995</SimpleData>
+		<SimpleData name="long_gd">-69.83975749199993</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Salud</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.8397574919999,-32.842057543,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Centro de Salud Nº 34 Potrerillos</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">219</SimpleData>
+		<SimpleData name="lat_gd">-32.95641378499994</SimpleData>
+		<SimpleData name="long_gd">-69.19605983099996</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Salud</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.196059831,-32.9564137849999,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Centro de Salud Nº 92 San José</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">220</SimpleData>
+		<SimpleData name="lat_gd">-33.29962509899997</SimpleData>
+		<SimpleData name="long_gd">-69.15061377799998</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Salud</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.150613778,-33.299625099,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Posta Sanitaria Nº 521 Cacheuta</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">221</SimpleData>
+		<SimpleData name="lat_gd">-33.02674088499998</SimpleData>
+		<SimpleData name="long_gd">-69.11419580699999</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Salud</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.114195807,-33.026740885,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Posta Sanitaria Nº 520 Las Vegas</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">222</SimpleData>
+		<SimpleData name="lat_gd">-33.00406319799998</SimpleData>
+		<SimpleData name="long_gd">-69.26325429099995</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Salud</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.263254291,-33.004063198,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Posta Sanitaria Nº 522 Agua de las Avispas</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">223</SimpleData>
+		<SimpleData name="lat_gd">-33.07821377799996</SimpleData>
+		<SimpleData name="long_gd">-69.12752634699996</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Salud</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.127526347,-33.078213778,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Centro de Salud Nº 93 La Carrera</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">224</SimpleData>
+		<SimpleData name="lat_gd">-33.238622824999936</SimpleData>
+		<SimpleData name="long_gd">-69.22550343399996</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Salud</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.225503434,-33.2386228249999,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Centro de Salud Nº 24 Polvaredas</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">225</SimpleData>
+		<SimpleData name="lat_gd">-32.84205754299995</SimpleData>
+		<SimpleData name="long_gd">-69.83975749199993</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Salud</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.8397574919999,-32.842057543,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Centro de Salud Nº 34 Potrerillos</name>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">226</SimpleData>
+		<SimpleData name="lat_gd">-32.95641378499994</SimpleData>
+		<SimpleData name="long_gd">-69.19605983099996</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Salud</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-69.196059831,-32.9564137849999,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Glaciar del Hielo Azul</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">227</SimpleData>
+		<SimpleData name="lat_gd">-41.887606</SimpleData>
+		<SimpleData name="long_gd">-71.65472</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Waypoints</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-71.65472,-41.887606,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Foto</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">228</SimpleData>
+		<SimpleData name="lat_gd">-41.886424</SimpleData>
+		<SimpleData name="long_gd">-71.652907</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Waypoints</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-71.652907,-41.886424,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Bajada</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">229</SimpleData>
+		<SimpleData name="lat_gd">-41.886417</SimpleData>
+		<SimpleData name="long_gd">-71.6527</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Waypoints</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-71.6527,-41.886417,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Desvío a Refugio Natación </name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">230</SimpleData>
+		<SimpleData name="lat_gd">-41.888342</SimpleData>
+		<SimpleData name="long_gd">-71.63225</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Waypoints</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-71.63225,-41.888342,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Laguna</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">231</SimpleData>
+		<SimpleData name="lat_gd">-41.886673</SimpleData>
+		<SimpleData name="long_gd">-71.624084</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Waypoints</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-71.624084,-41.886673,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Desvío </name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">232</SimpleData>
+		<SimpleData name="lat_gd">-41.884201</SimpleData>
+		<SimpleData name="long_gd">-71.62472</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Waypoints</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-71.62472,-41.884201,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Foto</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">233</SimpleData>
+		<SimpleData name="lat_gd">-41.879776</SimpleData>
+		<SimpleData name="long_gd">-71.62477</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Waypoints</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-71.62477,-41.879776,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Foto</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">234</SimpleData>
+		<SimpleData name="lat_gd">-41.879804</SimpleData>
+		<SimpleData name="long_gd">-71.624052</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Waypoints</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-71.624052,-41.879804,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Foto</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">235</SimpleData>
+		<SimpleData name="lat_gd">-41.879426</SimpleData>
+		<SimpleData name="long_gd">-71.623419</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Waypoints</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-71.623419,-41.879426,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Bajada</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">236</SimpleData>
+		<SimpleData name="lat_gd">-41.872677</SimpleData>
+		<SimpleData name="long_gd">-71.618389</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Waypoints</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-71.618389,-41.872677,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Arroyo</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">237</SimpleData>
+		<SimpleData name="lat_gd">-41.871965</SimpleData>
+		<SimpleData name="long_gd">-71.617197</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Waypoints</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-71.617197,-41.871965,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Arroyo</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">238</SimpleData>
+		<SimpleData name="lat_gd">-41.87138</SimpleData>
+		<SimpleData name="long_gd">-71.616283</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Waypoints</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-71.616283,-41.87138,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Mirador</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">239</SimpleData>
+		<SimpleData name="lat_gd">-41.86613</SimpleData>
+		<SimpleData name="long_gd">-71.606774</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Waypoints</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-71.606774,-41.86613,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Indicaciones</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">240</SimpleData>
+		<SimpleData name="lat_gd">-41.854107</SimpleData>
+		<SimpleData name="long_gd">-71.61451</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Waypoints</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-71.61451,-41.854107,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Foto</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">241</SimpleData>
+		<SimpleData name="lat_gd">-41.853513</SimpleData>
+		<SimpleData name="long_gd">-71.619687</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Waypoints</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-71.619687,-41.853513,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Foto</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">242</SimpleData>
+		<SimpleData name="lat_gd">-41.853633</SimpleData>
+		<SimpleData name="long_gd">-71.619342</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Waypoints</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-71.619342,-41.853633,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Foto</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">243</SimpleData>
+		<SimpleData name="lat_gd">-41.858285</SimpleData>
+		<SimpleData name="long_gd">-71.576619</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Waypoints</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-71.576619,-41.858285,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Foto</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">244</SimpleData>
+		<SimpleData name="lat_gd">-41.858114</SimpleData>
+		<SimpleData name="long_gd">-71.568711</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Waypoints</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-71.568711,-41.858114,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Esperando a pasar el puente</name>
+	<description></description>
+	<ExtendedData><SchemaData schemaUrl="#pois_caba">
+		<SimpleData name="fid">245</SimpleData>
+		<SimpleData name="lat_gd">-41.857229</SimpleData>
+		<SimpleData name="long_gd">-71.559473</SimpleData>
+		<SimpleData name="fuente">Marcos Cortina + Gabriel Boubenicek</SimpleData>
+		<SimpleData name="layer">Waypoints</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-71.559473,-41.857229,0</coordinates></Point></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>
