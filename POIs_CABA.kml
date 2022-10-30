@@ -8,6 +8,7 @@
 	<SimpleField name="fuente" type="string"></SimpleField>
 	<SimpleField name="elev" type="int"></SimpleField>
 	<SimpleField name="layer" type="string"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
 </Schema>
 <Folder><name>pois_caba</name>
   <Placemark>
