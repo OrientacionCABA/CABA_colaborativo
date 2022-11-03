@@ -1,5 +1,5 @@
 <!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
-<qgis saveUser="20253589834" saveUserFull="Marcos Gustavo CORTINA" projectname="Colaborativo" version="3.28.0-Firenze" saveDateTime="2022-11-03T15:19:41">
+<qgis saveUser="20253589834" saveUserFull="Marcos Gustavo CORTINA" projectname="Colaborativo" version="3.28.0-Firenze" saveDateTime="2022-11-03T15:46:21">
   <homePath path=""/>
   <title>Colaborativo</title>
   <transaction mode="Disabled"/>
@@ -86,10 +86,10 @@
   <mapcanvas name="theMapCanvas" annotationsVisible="1">
     <units>meters</units>
     <extent>
-      <xmin>402395.43847715377341956</xmin>
-      <ymin>6317635.19397539179772139</ymin>
-      <xmax>403408.73797866317909211</xmax>
-      <ymax>6318084.68016831297427416</ymax>
+      <xmin>401601.19793388509424403</xmin>
+      <ymin>6317468.60293066874146461</ymin>
+      <xmax>403900.5878529020701535</xmax>
+      <ymax>6318367.57531651109457016</ymax>
     </extent>
     <rotation>0</rotation>
     <destinationsrs>
@@ -1470,13 +1470,13 @@
     </maplayer>
     <maplayer symbologyReferenceScale="-1" maxScale="0" readOnly="0" simplifyLocal="1" type="vector" wkbType="MultiPointZ" simplifyDrawingHints="1" labelsEnabled="1" styleCategories="AllStyleCategories" simplifyAlgorithm="0" refreshOnNotifyMessage="" autoRefreshEnabled="0" geometry="Point" minScale="100000000" simplifyMaxScale="1" autoRefreshTime="0" hasScaleBasedVisibilityFlag="0" legendPlaceholderImage="" simplifyDrawingTol="1" refreshOnNotifyEnabled="0">
       <extent>
-        <xmin>-70.04425048828125</xmin>
+        <xmin>-69.99199676513671875</xmin>
         <ymin>-33.3249969482421875</ymin>
         <xmax>-64.7951812744140625</xmax>
         <ymax>-31.41900253295898438</ymax>
       </extent>
       <wgs84extent>
-        <xmin>-70.04425048828125</xmin>
+        <xmin>-69.99199676513671875</xmin>
         <ymin>-33.3249969482421875</ymin>
         <xmax>-64.7951812744140625</xmax>
         <ymax>-31.41900253295898438</ymax>
@@ -1972,7 +1972,7 @@
       </attributeactions>
       <attributetableconfig sortOrder="0" sortExpression="" actionWidgetStyle="dropDown">
         <columns>
-          <column width="244" type="field" hidden="0" name="Name"/>
+          <column width="136" type="field" hidden="0" name="Name"/>
           <column width="60" type="field" hidden="0" name="icon"/>
           <column width="-1" type="field" hidden="0" name="elev"/>
           <column width="-1" type="field" hidden="0" name="fid"/>
@@ -3058,7 +3058,7 @@ def my_form_open(dialog, layer, feature):
   <Bookmarks/>
   <ProjectViewSettings UseProjectScales="0" rotation="0">
     <Scales/>
-    <DefaultViewExtent xmax="403408.73797866317909211" xmin="402395.43847715377341956" ymin="6317627.32886490598320961" ymax="6318092.54527879878878593">
+    <DefaultViewExtent xmax="403900.5878529020701535" xmin="401601.19793388509424403" ymin="6317468.60293066874146461" ymax="6318367.57531651109457016">
       <spatialrefsys nativeFormat="Wkt">
         <wkt>PROJCRS["WGS 84 / UTM zone 19S",BASEGEOGCRS["WGS 84",ENSEMBLE["World Geodetic System 1984 ensemble",MEMBER["World Geodetic System 1984 (Transit)"],MEMBER["World Geodetic System 1984 (G730)"],MEMBER["World Geodetic System 1984 (G873)"],MEMBER["World Geodetic System 1984 (G1150)"],MEMBER["World Geodetic System 1984 (G1674)"],MEMBER["World Geodetic System 1984 (G1762)"],MEMBER["World Geodetic System 1984 (G2139)"],ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]],ENSEMBLEACCURACY[2.0]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],ID["EPSG",4326]],CONVERSION["UTM zone 19S",METHOD["Transverse Mercator",ID["EPSG",9807]],PARAMETER["Latitude of natural origin",0,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8801]],PARAMETER["Longitude of natural origin",-69,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8802]],PARAMETER["Scale factor at natural origin",0.9996,SCALEUNIT["unity",1],ID["EPSG",8805]],PARAMETER["False easting",500000,LENGTHUNIT["metre",1],ID["EPSG",8806]],PARAMETER["False northing",10000000,LENGTHUNIT["metre",1],ID["EPSG",8807]]],CS[Cartesian,2],AXIS["(E)",east,ORDER[1],LENGTHUNIT["metre",1]],AXIS["(N)",north,ORDER[2],LENGTHUNIT["metre",1]],USAGE[SCOPE["Engineering survey, topographic mapping."],AREA["Between 72°W and 66°W, southern hemisphere between 80°S and equator, onshore and offshore. Argentina. Bolivia. Brazil. Chile. Colombia. Peru."],BBOX[-80,-72,0,-66]],ID["EPSG",32719]]</wkt>
         <proj4>+proj=utm +zone=19 +south +datum=WGS84 +units=m +no_defs</proj4>
