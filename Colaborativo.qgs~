@@ -1,5 +1,5 @@
 <!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
-<qgis saveUser="mg_co" saveUserFull="Marcos Gustavo Cortina" saveDateTime="2022-10-29T21:25:14" projectname="Colaborativo" version="3.28.0-Firenze">
+<qgis saveUser="mg_co" saveUserFull="Marcos Gustavo Cortina" saveDateTime="2022-10-29T21:41:05" projectname="Colaborativo" version="3.28.0-Firenze">
   <homePath path=""/>
   <title>Colaborativo</title>
   <transaction mode="Disabled"/>
@@ -69,9 +69,9 @@
   </layer-tree-group>
   <snapping-settings mode="2" tolerance="12" unit="1" type="1" minScale="0" scaleDependencyMode="0" intersection-snapping="0" enabled="0" self-snapping="0" maxScale="0">
     <individual-layer-settings>
+      <layer-setting tolerance="12" type="0" minScale="0" units="1" id="Recorrido_visual_ce5af0dc_474f_4ab5_b7a9_e6b3117688f8" enabled="0" maxScale="0"/>
       <layer-setting tolerance="12" type="0" minScale="0" units="1" id="cumbres_caba_ce1c306f_5c27_4064_baa0_4cec65c11ce5" enabled="0" maxScale="0"/>
       <layer-setting tolerance="12" type="0" minScale="0" units="1" id="pois_caba_bc0f5900_becf_466e_a527_229d6993ac6a" enabled="0" maxScale="0"/>
-      <layer-setting tolerance="12" type="0" minScale="0" units="1" id="Recorrido_visual_ce5af0dc_474f_4ab5_b7a9_e6b3117688f8" enabled="0" maxScale="0"/>
       <layer-setting tolerance="12" type="0" minScale="0" units="1" id="Mis_lugares_7e4db3df_1fba_424e_94fa_9dc41eb3a495" enabled="0" maxScale="0"/>
     </individual-layer-settings>
   </snapping-settings>
@@ -2256,6 +2256,7 @@
           <column width="57" hidden="0" type="field" name="elev"/>
           <column width="213" hidden="0" type="field" name="layer"/>
           <column width="-1" hidden="0" type="field" name="fid"/>
+          <column width="-1" hidden="0" type="field" name="icon"/>
           <column width="-1" hidden="1" type="actions"/>
         </columns>
       </attributetableconfig>
@@ -2531,7 +2532,7 @@ def my_form_open(dialog, layer, feature):
   <Bookmarks/>
   <ProjectViewSettings rotation="0" UseProjectScales="0">
     <Scales/>
-    <DefaultViewExtent ymax="-3542361.60875329840928316" xmin="-8494844.16904466785490513" xmax="-6049746.91572694480419159" ymin="-3931354.35359929967671633">
+    <DefaultViewExtent ymax="-3382592.0972611983306706" xmin="-7771429.20770241040736437" xmax="-6773161.87706920225173235" ymin="-4091123.86509139975532889">
       <spatialrefsys nativeFormat="Wkt">
         <wkt>PROJCRS["WGS 84 / Pseudo-Mercator",BASEGEOGCRS["WGS 84",ENSEMBLE["World Geodetic System 1984 ensemble",MEMBER["World Geodetic System 1984 (Transit)"],MEMBER["World Geodetic System 1984 (G730)"],MEMBER["World Geodetic System 1984 (G873)"],MEMBER["World Geodetic System 1984 (G1150)"],MEMBER["World Geodetic System 1984 (G1674)"],MEMBER["World Geodetic System 1984 (G1762)"],MEMBER["World Geodetic System 1984 (G2139)"],ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]],ENSEMBLEACCURACY[2.0]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],ID["EPSG",4326]],CONVERSION["Popular Visualisation Pseudo-Mercator",METHOD["Popular Visualisation Pseudo Mercator",ID["EPSG",1024]],PARAMETER["Latitude of natural origin",0,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8801]],PARAMETER["Longitude of natural origin",0,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8802]],PARAMETER["False easting",0,LENGTHUNIT["metre",1],ID["EPSG",8806]],PARAMETER["False northing",0,LENGTHUNIT["metre",1],ID["EPSG",8807]]],CS[Cartesian,2],AXIS["easting (X)",east,ORDER[1],LENGTHUNIT["metre",1]],AXIS["northing (Y)",north,ORDER[2],LENGTHUNIT["metre",1]],USAGE[SCOPE["Web mapping and visualisation."],AREA["World between 85.06°S and 85.06°N."],BBOX[-85.06,-180,85.06,180]],ID["EPSG",3857]]</wkt>
         <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0 +lon_0=0 +x_0=0 +y_0=0 +k=1 +units=m +nadgrids=@null +wktext +no_defs</proj4>
