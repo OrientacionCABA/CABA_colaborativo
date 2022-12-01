@@ -6,9 +6,8 @@
     4. Provincias Argentinas.
     5. Vímculo a Open Topo Map.
     Si lo tiras sin conectar e iniciar el proyecto "Montañas de Argetnoina v2.0" vas a tener las capas disponibles en crudo.
-2. [**cerros**]: Hasta el momento 237 cerros y puntos acotados en la zona de Mendoza y Córdoba. Archivo de puntos tanto en kml como en gpkg. 
-3. [**poi**]: archivo de Puntos de Interés como ser zonas de acampe, refugios, lugar con agua. Al momento 230 principalmente en Mendoza y Córdoba. puntos En la tabla de atributos está quien obtuvo el dato y las características como para poder clasificarlo asignándole distintas etioquetas al diseñar un mapa. Subida tanto en kml como en gpkg.
-4. Agregamos los kml con los cerros y puntos acotados del IGN para trabajarlos y ver si se pueden agregar.
+2. [**cerros**]: Sonlos mismos del anterior pero solo los cerros para el que no le interese los otros elementos. Archivo de puntos tanto en kml como en gpkg. 
+3. [**poi**]: Archivo de Puntos de Interés como ser zonas de acampe, refugios, lugar con agua. Al momento 230 principalmente en Mendoza y Córdoba. puntos En la tabla de atributos está quien obtuvo el dato y las características como para poder clasificarlo asignándole distintas etioquetas al diseñar un mapa. Subida tanto en kml como en gpkg.
 ___
 # Descargar en el menu de la derecha donde dice "Releases". Cliquear en "v0.2.0"
 ___
