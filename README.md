@@ -1,5 +1,5 @@
 # Elementos:
-1. [mountain_of_argentina_v2.0.gpkg]: Es el archivo nativo de QGis, es una base de datos que al conectarla - también la podes tirar a la vista de mapa sin conecvtarla- tiene dentro el proyecto con la simbología.Entonces encontramos:
+1. [mountain_of_argentina_v2.0.gpkg]: Es el archivo nativo de QGis, es una base de datos que al conectarla - también la podes tirar a la vista de mapa sin conectarla- tiene dentro el proyecto con la simbología. Entonces encontramos:
     1. Cerros (9.930)
     2. Puntos de Interés categorizados (3.759)
     3. Cordondes y sierras.
