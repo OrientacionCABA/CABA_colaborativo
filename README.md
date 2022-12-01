@@ -16,4 +16,9 @@ Como mucha gente solo usa el google earth se subieron en kml también, sin embar
 
 Ampliaremos...
 ___
+Si querés sumarte sos bienvenido....
+Toda la info la vamos a ir subiendo en la [WIKI](https://github.com/OrientacionCABA/CABA_colaborativo/wiki)
+Si no tenés idea pero querés colaborar contactame a través de [Mi Página](http://www.marcosgustavocortina.com/)
+
+___
 ![Mapa QGis](anexos/captura.PNG)
